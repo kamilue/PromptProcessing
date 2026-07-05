@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Prompt.Api/Prompt.Api.csproj" />
+  <Project Path="Prompt.Application/Prompt.Application.csproj" />
+  <Project Path="Prompt.Domain/Prompt.Domain.csproj" />
+  <Project Path="Prompt.Infrastructure/Prompt.Infrastructure.csproj" />
+  <Project Path="Prompt.Worker/Prompt.Worker.csproj" Id="a22be9f9-dd98-40f8-ab9b-c21803583448" />
+</Solution>
